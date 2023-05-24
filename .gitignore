@@ -1,2 +1,9 @@
 venv/*
 src/modules/__pycache__/
+
+*.vectorized_metadata
+.noteablekeep
+*.py[cod]
+.tmp/
+__pycache__
+*.vectorized_content
